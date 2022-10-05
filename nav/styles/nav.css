@@ -39,4 +39,6 @@ nav {
     width: 100px;
     height: 44px;
     display: inline-block;
+    z-index: 1;
+    position: relative;
 }
