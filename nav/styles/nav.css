@@ -32,11 +32,11 @@ nav {
 }
 
 .nav-link-logo {
-    background-size: 14px 20px;
+    background-size: 100px 20px;
     background-repeat: no-repeat;
     background-image: url("../images/i-logo.svg");
     background-position: center;
-    width: 14px;
+    width: 100px;
     height: 44px;
     display: inline-block;
 }
