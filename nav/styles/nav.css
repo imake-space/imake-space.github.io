@@ -2,7 +2,7 @@ nav {
     background-color:#4285f4;
     height: 44px;
     position: fixed;
-    float: none;
+    float: initial;
     width: 100%;
     display: block;
     top: 0;
@@ -34,7 +34,7 @@ nav {
 .nav-link-home-logo {
     background-size: 100px 20px;
     background-repeat: no-repeat;
-    background-image: url("../images/i-logo.svg");
+    background-image: url("/images/i-logo.svg");
     background-position: center;
     width: 100px;
     height: 44px;
@@ -46,7 +46,7 @@ nav {
 .nav-link-projects-logo {
     background-size: 100px 15px;
     background-repeat: no-repeat;
-    background-image: url("../images/projects-logo.svg");
+    background-image: url("/images/projects-logo.svg");
     background-position: center;
     width: 100px;
     height: 44px;
