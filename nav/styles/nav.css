@@ -31,10 +31,22 @@ nav {
     top: 50%;
 }
 
-.nav-link-logo {
+.nav-link-home-logo {
     background-size: 100px 20px;
     background-repeat: no-repeat;
     background-image: url("../images/i-logo.svg");
+    background-position: center;
+    width: 100px;
+    height: 44px;
+    display: inline-block;
+    z-index: 1;
+    position: relative;
+}
+
+.nav-link-projects-logo {
+    background-size: 100px 15px;
+    background-repeat: no-repeat;
+    background-image: url("../images/projects-logo.svg");
     background-position: center;
     width: 100px;
     height: 44px;
