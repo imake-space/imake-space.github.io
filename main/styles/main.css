@@ -3,3 +3,8 @@ main {
     position: relative;
     margin-top: 44px;
 }
+
+.bookings {
+    margin: 50px;
+    height: 800px;
+}
