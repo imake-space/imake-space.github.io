@@ -22,16 +22,17 @@ nav {
 }
 
 .nav-link-text {
-    position: absolute;
-    height: 1px;
-    width: 1px;
+    /* position: absolute; */
+    /* height: 1px;
+    width: 1px; */
     overflow: hidden;
     padding: 0;
     border: 0;
     top: 50%;
+    text-decoration: none !important;
 }
 
-.nav-link-home-logo {
+/* .nav-link-home-logo {
     background-size: 100px 20px;
     background-repeat: no-repeat;
     background-image: url("../images/i-logo.svg");
@@ -41,9 +42,9 @@ nav {
     display: inline-block;
     z-index: 1;
     position: relative;
-}
+} */
 
-.nav-link-projects-logo {
+/* .nav-link-projects-logo {
     background-size: 100px 15px;
     background-repeat: no-repeat;
     background-image: url("../images/projects-logo.svg");
@@ -53,4 +54,4 @@ nav {
     display: inline-block;
     z-index: 1;
     position: relative;
-}
+} */
