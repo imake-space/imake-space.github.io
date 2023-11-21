@@ -20,8 +20,8 @@ body {
 }
 
 .link div {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background-color: rebeccapurple;
     margin: 10px;
     overflow: hidden;
@@ -35,7 +35,7 @@ body {
 .link a div h1 {
     margin: 20px;
     position: relative;
-    top: 70%;
+    top: 65%;
     text-align: center;
 }
 
