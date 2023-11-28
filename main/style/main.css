@@ -53,3 +53,8 @@ body {
     background-image: url("/main/image/myPoints.png");
     background-size: cover;
 }
+
+.rules {
+    background-image: url("/main/image/rules.png");
+    background-size: cover;
+}
