@@ -13,7 +13,7 @@ categories: How to
 
  [![Windows Store Badge](/assets/img/windows-store-badge.svg)](https://www.microsoft.com/store/apps/9pfgj25jl6x3?cid=storebadge&ocid=badge)
  
- #### 方法二：直接下载安装包。
+#### 方法二：直接下载安装包。
  
 点击下面的下载链接，下载 .exe 格式的文件后，运行安装程序。
 
@@ -24,6 +24,7 @@ categories: How to
 #### 方法一（推荐）：使用 Mac App Store 安装。
 
 点击下面的图标，进入 Mac App Store，然后安装 Scratch。
+
 [ ![Mac App Store Badge](/assets/img/mac-store-badge.svg)](https://apps.apple.com/us/app/scratch-desktop/id1446785996?mt=12)
 
 #### 方法二：直接下载安装包。
