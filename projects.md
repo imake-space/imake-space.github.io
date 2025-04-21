@@ -4,6 +4,6 @@ title: 项目
 permalink: /projects/
 ---
 
-<iframe src="https://turbowarp.org/1105113583/embed" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="/assets/projects/Scratch/穿越隧道.html" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<iframe src="https://scratch.mit.edu/projects/1105113583/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<a href="/assets/projects/Scratch/穿越隧道.sb3" download>点击下载项目文件</a>
