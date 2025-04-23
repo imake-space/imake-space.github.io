@@ -3,7 +3,4 @@ layout: page
 title: 项目
 permalink: /projects/
 ---
-
-<iframe src="/assets/projects/Scratch/穿越隧道.html" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-<a href="/assets/projects/Scratch/穿越隧道.sb3" download>点击下载项目文件</a>
+### [穿越隧道](/assets/projects/Scratch/穿越隧道/穿越隧道.md)
